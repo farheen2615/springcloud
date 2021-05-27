@@ -1,0 +1,6 @@
+spring:
+ application:
+  name: demo
+ profiles:  active: native
+server:
+ port: 9090     
